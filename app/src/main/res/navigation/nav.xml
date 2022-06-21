@@ -9,7 +9,11 @@
         android:id="@+id/homeFragment"
         android:name="com.itpgroup18.groceryhunters.ui.fragment.HomeFragment"
         android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_myFoodBuddyFragment"
+            app:destination="@id/myFoodBuddyFragment" />
+    </fragment>
     <fragment
         android:id="@+id/settingsFragment"
         android:name="com.itpgroup18.groceryhunters.ui.fragment.SettingsFragment"
@@ -38,12 +42,21 @@
     <fragment
         android:id="@+id/myFoodBuddyFragment"
         android:name="com.itpgroup18.groceryhunters.ui.fragment.MyFoodBuddyFragment"
-        android:label="MyFoodBuddyFragment" />
+        android:label="MyFoodBuddyFragment"
+        tools:layout="@layout/fragment_my_food_buddy">
+        <action
+            android:id="@+id/action_myFoodBuddyFragment_to_myFoodBuddyScreenTwoFragment"
+            app:destination="@id/myFoodBuddyScreenTwoFragment" />
+    </fragment>
     <fragment
         android:id="@+id/myFoodBuddyScreenTwoFragment"
         android:name="com.itpgroup18.groceryhunters.ui.fragment.MyFoodBuddyScreenTwoFragment"
         android:label="fragment_my_food_buddy_screen_two"
-        tools:layout="@layout/fragment_my_food_buddy_screen_two" />
+        tools:layout="@layout/fragment_my_food_buddy_screen_two" >
+        <action
+            android:id="@+id/action_myFoodBuddyScreenTwoFragment_to_myFoodBuddyScreenThreeFragment"
+            app:destination="@id/myFoodBuddyScreenThreeFragment" />
+    </fragment>
     <fragment
         android:id="@+id/myFoodBuddyScreenThreeFragment"
         android:name="com.itpgroup18.groceryhunters.ui.fragment.MyFoodBuddyScreenThreeFragment"
