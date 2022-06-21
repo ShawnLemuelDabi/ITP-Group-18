@@ -18,6 +18,7 @@ import androidx.core.content.ContextCompat
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.google.mlkit.common.MlKitException
+import com.itpgroup18.groceryhunters.*
 import com.itpgroup18.groceryhunters.databinding.ActivityMyFoodBuddyScreenThreeBinding
 import com.itpgroup18.groceryhunters.ui.viewmodel.CameraXViewModel
 
