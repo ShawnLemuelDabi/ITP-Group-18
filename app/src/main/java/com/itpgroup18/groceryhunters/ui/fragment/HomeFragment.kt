@@ -1,5 +1,6 @@
 package com.itpgroup18.groceryhunters.ui.fragment
 
+import android.content.Intent
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -11,6 +12,9 @@ import androidx.navigation.findNavController
 import com.itpgroup18.groceryhunters.R
 import com.itpgroup18.groceryhunters.databinding.FragmentHomeBinding
 import com.itpgroup18.groceryhunters.databinding.FragmentMyFoodBuddyBinding
+import com.itpgroup18.groceryhunters.ui.MyFoodBuddyScreenFiveActivity
+import com.itpgroup18.groceryhunters.ui.MyFoodBuddyScreenFourActivity
+import com.itpgroup18.groceryhunters.ui.MyFoodBuddyScreenThreeActivity
 import com.itpgroup18.groceryhunters.ui.viewmodel.HomeViewModel
 
 class HomeFragment : Fragment() {
@@ -32,7 +36,10 @@ class HomeFragment : Fragment() {
         binding.btnQRCode.setOnClickListener {
             view?.findNavController()?.navigate(R.id.action_homeFragment_to_myFoodBuddyFragment)
         }
-
+        binding.btnScanReceipt.setOnClickListener {
+            val i = Intent(requireContext(), MyFoodBuddyScreenFiveActivity::class.java)
+            startActivity(i)
+        }
         return binding.root
     }
 

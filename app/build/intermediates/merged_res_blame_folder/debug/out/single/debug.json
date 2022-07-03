@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\font_press_start_2p.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\font\\press_start_2p.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_nine.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_nine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_settings_style.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\settings_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_toggle_style.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\toggle_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\navigation_nav.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\navigation\\nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_activity_my_food_buddy_screen_five.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\activity_my_food_buddy_screen_five.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_mascot_redemption.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_mascot_redemption.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_six.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_six.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\menu_camera_button_menu.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\menu\\camera_button_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_four.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\drawable_mascots.PNG.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\drawable\\mascots.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-pngs-46:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-merged_res-51:/layout_activity_my_food_buddy_screen_five.xml.flat",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/activity_my_food_buddy_screen_five.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_five.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_five.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_seven.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_seven.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_eight.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_eight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_exchange_mascot.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_exchange_mascot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_redemption_history.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_redemption_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_activity_my_food_buddy_screen_three.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\activity_my_food_buddy_screen_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_two.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_activity_my_food_buddy_screen_six.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\activity_my_food_buddy_screen_six.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_my_food_buddy_screen_three.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_my_food_buddy_screen_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_fragment_linkpoints.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\fragment_linkpoints.xml"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-merged_res-51:\\layout_activity_my_food_buddy_screen_four.xml.flat",
+        "source": "C:\\Users\\Afnan\\.gradle\\daemon\\7.3.3\\com.itpgroup18.groceryhunters.app-main-53:\\layout\\activity_my_food_buddy_screen_four.xml"
+    }
+]
