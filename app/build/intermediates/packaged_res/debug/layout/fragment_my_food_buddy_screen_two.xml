@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                              
+                                                   
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#55AFC9"
+        tools:context=".ui.fragment.MyFoodBuddyScreenTwoFragment" android:tag="layout/fragment_my_food_buddy_screen_two_0" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnScanQRCode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="84dp"
+            android:backgroundTint="#47D944"
+            android:fontFamily="@font/press_start_2p"
+            android:text="@string/btnQRCode"
+            app:cornerRadius="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/tvHeaderFB1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:fontFamily="@font/press_start_2p"
+            android:text="@string/tvHeaderFB1"
+            android:textColor="#FFE03C"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toTopOf="@+id/tvSubHeaderFB2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ivMascots" />
+
+        <TextView
+            android:id="@+id/tvSubHeaderFB2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="120dp"
+            android:fontFamily="@font/press_start_2p"
+            android:text="@string/tvSubHeaderFB2"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toTopOf="@+id/btnScanQRCode"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageView
+            android:id="@+id/ivMascots"
+            android:layout_width="204dp"
+            android:layout_height="301dp"
+            android:layout_marginTop="60dp"
+            android:contentDescription="@string/ivMascots"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/mascots" />
+
+        <TextView
+            android:id="@+id/tvSubHeaderTwoFB2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/press_start_2p"
+            android:text="@string/tvSubHeaderTwoFB2"
+            android:textSize="12sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnScanQRCode"
+            app:layout_constraintVertical_bias="0.268" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+         

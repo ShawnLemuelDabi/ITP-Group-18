@@ -1,0 +1,246 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.itpgroup18.groceryhunters"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:9:5-64
+14-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:9:22-62
+15
+16    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+17    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+18-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:22-76
+19
+20    <application
+20-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:11:5-48:19
+21        android:allowBackup="true"
+21-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:12:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.8.0] C:\Users\Afnan\.gradle\caches\transforms-3\15fa573abc73459af70f48d8f1db0a8d\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:13:9-65
+24        android:debuggable="true"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:14:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:15:9-43
+27        android:label="@string/app_name"
+27-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:16:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:17:9-54
+29        android:supportsRtl="true"
+29-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:18:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.GroceryHunters" >
+31-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:19:9-52
+32        <activity
+32-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:21:9-23:40
+33            android:name="com.itpgroup18.groceryhunters.ui.MyFoodBuddyScreenThreeActivity"
+33-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:22:13-62
+34            android:exported="false" />
+34-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:23:13-37
+35        <activity
+35-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:24:9-26:36
+36            android:name="com.itpgroup18.groceryhunters.ui.MyFoodBuddyScreenFourActivity"
+36-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:25:9-57
+37            android:exported="false" />
+37-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:26:9-33
+38        <activity
+38-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:27:9-29:40
+39            android:name="com.itpgroup18.groceryhunters.ui.MyFoodBuddyScreenFiveActivity"
+39-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:28:13-61
+40            android:exported="false" />
+40-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:29:13-37
+41        <activity
+41-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:30:9-39:20
+42            android:name="com.itpgroup18.groceryhunters.MainActivity"
+42-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:32:13-41
+43            android:exported="true" >
+43-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:33:13-36
+44            <intent-filter>
+44-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:34:13-38:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:35:17-69
+45-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:35:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:37:17-77
+47-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:37:27-74
+48            </intent-filter>
+49        </activity>
+50
+51        <meta-data
+51-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:41:9-44:15
+52            android:name="preloaded_fonts"
+52-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:42:13-43
+53            android:resource="@array/preloaded_fonts" />
+53-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:43:13-54
+54        <meta-data
+54-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:45:9-47:35
+55            android:name="com.google.mlkit.vision.DEPENDENCIES"
+55-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:46:13-64
+56            android:value="ocr" />
+56-->C:\Users\Afnan\Documents\GitHub\ITP-Group-18\app\src\main\AndroidManifest.xml:47:13-32
+57
+58        <uses-library
+58-->[androidx.window:window:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f0431cd521f5a5692ea5e050841df300\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+59            android:name="androidx.window.extensions"
+59-->[androidx.window:window:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f0431cd521f5a5692ea5e050841df300\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f0431cd521f5a5692ea5e050841df300\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+61        <uses-library
+61-->[androidx.window:window:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f0431cd521f5a5692ea5e050841df300\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+62            android:name="androidx.window.sidecar"
+62-->[androidx.window:window:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f0431cd521f5a5692ea5e050841df300\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+63            android:required="false" />
+63-->[androidx.window:window:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f0431cd521f5a5692ea5e050841df300\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+64
+65        <service
+65-->[com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\306a5d8f9afdd0d2519aadc894dffe84\transformed\play-services-mlkit-text-recognition-common-17.0.0\AndroidManifest.xml:9:9-15:19
+66            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+66-->[com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\306a5d8f9afdd0d2519aadc894dffe84\transformed\play-services-mlkit-text-recognition-common-17.0.0\AndroidManifest.xml:10:13-91
+67            android:directBootAware="true"
+67-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:17:13-43
+68            android:exported="false" >
+68-->[com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\306a5d8f9afdd0d2519aadc894dffe84\transformed\play-services-mlkit-text-recognition-common-17.0.0\AndroidManifest.xml:11:13-37
+69            <meta-data
+69-->[com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\306a5d8f9afdd0d2519aadc894dffe84\transformed\play-services-mlkit-text-recognition-common-17.0.0\AndroidManifest.xml:12:13-14:85
+70                android:name="com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar"
+70-->[com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\306a5d8f9afdd0d2519aadc894dffe84\transformed\play-services-mlkit-text-recognition-common-17.0.0\AndroidManifest.xml:13:17-114
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.android.gms:play-services-mlkit-text-recognition-common:17.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\306a5d8f9afdd0d2519aadc894dffe84\transformed\play-services-mlkit-text-recognition-common-17.0.0\AndroidManifest.xml:14:17-82
+72            <meta-data
+72-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f8b749452771c90d92e847c74e07ec5a\transformed\play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:12:13-14:85
+73                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
+73-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f8b749452771c90d92e847c74e07ec5a\transformed\play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:13:17-120
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\f8b749452771c90d92e847c74e07ec5a\transformed\play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:14:17-82
+75            <meta-data
+75-->[com.google.mlkit:vision-common:17.1.0] C:\Users\Afnan\.gradle\caches\transforms-3\7c5555caef5686209cacd1f902e75618\transformed\vision-common-17.1.0\AndroidManifest.xml:12:13-14:85
+76                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+76-->[com.google.mlkit:vision-common:17.1.0] C:\Users\Afnan\.gradle\caches\transforms-3\7c5555caef5686209cacd1f902e75618\transformed\vision-common-17.1.0\AndroidManifest.xml:13:17-124
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.mlkit:vision-common:17.1.0] C:\Users\Afnan\.gradle\caches\transforms-3\7c5555caef5686209cacd1f902e75618\transformed\vision-common-17.1.0\AndroidManifest.xml:14:17-82
+78            <meta-data
+78-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:20:13-22:85
+79                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+79-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:21:17-120
+80                android:value="com.google.firebase.components.ComponentRegistrar" />
+80-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:22:17-82
+81        </service>
+82
+83        <provider
+83-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:9:9-13:38
+84            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+84-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:10:13-78
+85            android:authorities="com.itpgroup18.groceryhunters.mlkitinitprovider"
+85-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:11:13-69
+86            android:exported="false"
+86-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:12:13-37
+87            android:initOrder="99" />
+87-->[com.google.mlkit:common:18.2.0] C:\Users\Afnan\.gradle\caches\transforms-3\a69e696e06b3e4c70859b15abdb75e83\transformed\common-18.2.0\AndroidManifest.xml:13:13-35
+88
+89        <activity
+89-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Afnan\.gradle\caches\transforms-3\4d6ce7a35713c72a1ebf7613bb138c38\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+90            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+90-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Afnan\.gradle\caches\transforms-3\4d6ce7a35713c72a1ebf7613bb138c38\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+91            android:exported="false"
+91-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Afnan\.gradle\caches\transforms-3\4d6ce7a35713c72a1ebf7613bb138c38\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Afnan\.gradle\caches\transforms-3\4d6ce7a35713c72a1ebf7613bb138c38\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+93
+94        <meta-data
+94-->[com.google.android.gms:play-services-basement:18.0.1] C:\Users\Afnan\.gradle\caches\transforms-3\47660477dbb50062af0d34f7c3923bca\transformed\play-services-basement-18.0.1\AndroidManifest.xml:21:9-23:69
+95            android:name="com.google.android.gms.version"
+95-->[com.google.android.gms:play-services-basement:18.0.1] C:\Users\Afnan\.gradle\caches\transforms-3\47660477dbb50062af0d34f7c3923bca\transformed\play-services-basement-18.0.1\AndroidManifest.xml:22:13-58
+96            android:value="@integer/google_play_services_version" />
+96-->[com.google.android.gms:play-services-basement:18.0.1] C:\Users\Afnan\.gradle\caches\transforms-3\47660477dbb50062af0d34f7c3923bca\transformed\play-services-basement-18.0.1\AndroidManifest.xml:23:13-66
+97
+98        <service
+98-->[androidx.camera:camera-camera2:1.2.0-alpha02] C:\Users\Afnan\.gradle\caches\transforms-3\10ce549d93581ae455d75854954a12cc\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:25:9-34:19
+99            android:name="androidx.camera.core.impl.MetadataHolderService"
+99-->[androidx.camera:camera-camera2:1.2.0-alpha02] C:\Users\Afnan\.gradle\caches\transforms-3\10ce549d93581ae455d75854954a12cc\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:26:13-75
+100            android:enabled="false"
+100-->[androidx.camera:camera-camera2:1.2.0-alpha02] C:\Users\Afnan\.gradle\caches\transforms-3\10ce549d93581ae455d75854954a12cc\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:27:13-36
+101            android:exported="false" >
+101-->[androidx.camera:camera-camera2:1.2.0-alpha02] C:\Users\Afnan\.gradle\caches\transforms-3\10ce549d93581ae455d75854954a12cc\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:28:13-37
+102            <meta-data
+102-->[androidx.camera:camera-camera2:1.2.0-alpha02] C:\Users\Afnan\.gradle\caches\transforms-3\10ce549d93581ae455d75854954a12cc\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:31:13-33:89
+103                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+103-->[androidx.camera:camera-camera2:1.2.0-alpha02] C:\Users\Afnan\.gradle\caches\transforms-3\10ce549d93581ae455d75854954a12cc\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:32:17-103
+104                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+104-->[androidx.camera:camera-camera2:1.2.0-alpha02] C:\Users\Afnan\.gradle\caches\transforms-3\10ce549d93581ae455d75854954a12cc\transformed\camera-camera2-1.2.0-alpha02\AndroidManifest.xml:33:17-86
+105        </service>
+106
+107        <provider
+107-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\00866d04b86eb5876d499efa4358f584\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+108            android:name="androidx.startup.InitializationProvider"
+108-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\00866d04b86eb5876d499efa4358f584\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+109            android:authorities="com.itpgroup18.groceryhunters.androidx-startup"
+109-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\00866d04b86eb5876d499efa4358f584\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+110            android:exported="false" >
+110-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\00866d04b86eb5876d499efa4358f584\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+111            <meta-data
+111-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\00866d04b86eb5876d499efa4358f584\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+112                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+112-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\00866d04b86eb5876d499efa4358f584\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+113                android:value="androidx.startup" />
+113-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Afnan\.gradle\caches\transforms-3\00866d04b86eb5876d499efa4358f584\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+114            <meta-data
+114-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Afnan\.gradle\caches\transforms-3\ad6c9e8b2738f1b4e7680c2b1b6e0bca\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+115                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+115-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Afnan\.gradle\caches\transforms-3\ad6c9e8b2738f1b4e7680c2b1b6e0bca\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+116                android:value="androidx.startup" />
+116-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Afnan\.gradle\caches\transforms-3\ad6c9e8b2738f1b4e7680c2b1b6e0bca\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+117        </provider>
+118
+119        <service
+119-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+120            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+120-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+121            android:exported="false" >
+121-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+122            <meta-data
+122-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+123                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+123-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+124                android:value="cct" />
+124-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Afnan\.gradle\caches\transforms-3\a665ec3e2899400fe37164e5e960d019\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+125        </service>
+126        <service
+126-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Afnan\.gradle\caches\transforms-3\19f20daa384883b0e209c3555119d17f\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+127            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+127-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Afnan\.gradle\caches\transforms-3\19f20daa384883b0e209c3555119d17f\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+128            android:exported="false"
+128-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Afnan\.gradle\caches\transforms-3\19f20daa384883b0e209c3555119d17f\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+129            android:permission="android.permission.BIND_JOB_SERVICE" >
+129-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Afnan\.gradle\caches\transforms-3\19f20daa384883b0e209c3555119d17f\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+130        </service>
+131
+132        <receiver
+132-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Afnan\.gradle\caches\transforms-3\19f20daa384883b0e209c3555119d17f\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+133            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+133-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Afnan\.gradle\caches\transforms-3\19f20daa384883b0e209c3555119d17f\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+134            android:exported="false" />
+134-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Afnan\.gradle\caches\transforms-3\19f20daa384883b0e209c3555119d17f\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+135    </application>
+136
+137</manifest>
