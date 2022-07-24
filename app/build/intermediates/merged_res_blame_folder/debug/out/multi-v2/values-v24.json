@@ -4,7 +4,7 @@
             "outputFile": "com.itpgroup18.groceryhunters.app-mergeDebugResources-49:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Afnan\\.gradle\\caches\\transforms-3\\dc172c4ad35e4572cd9ca52c9576313f\\transformed\\appcompat-1.4.2\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-3\\dc172c4ad35e4572cd9ca52c9576313f\\transformed\\appcompat-1.4.2\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Afnan\\.gradle\\caches\\transforms-3\\0330fe478e92c9d01476676a2efa9046\\transformed\\material-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-3\\0330fe478e92c9d01476676a2efa9046\\transformed\\material-1.6.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -33,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Afnan\\.gradle\\caches\\transforms-3\\d950f6fb15f3ed51927d2ef7f4c233f5\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-3\\d950f6fb15f3ed51927d2ef7f4c233f5\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

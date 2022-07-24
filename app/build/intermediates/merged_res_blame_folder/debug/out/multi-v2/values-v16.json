@@ -4,7 +4,7 @@
             "outputFile": "com.itpgroup18.groceryhunters.app-mergeDebugResources-49:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Afnan\\.gradle\\caches\\transforms-3\\15fa573abc73459af70f48d8f1db0a8d\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-3\\15fa573abc73459af70f48d8f1db0a8d\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Afnan\\.gradle\\caches\\transforms-3\\dc172c4ad35e4572cd9ca52c9576313f\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\tauru\\.gradle\\caches\\transforms-3\\dc172c4ad35e4572cd9ca52c9576313f\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
