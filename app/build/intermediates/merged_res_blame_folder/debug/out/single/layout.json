@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/fragment_my_food_buddy.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/fragment_my_food_buddy.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/activity_my_food_buddy_screen_four.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/activity_my_food_buddy_screen_four.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/activity_my_food_buddy_screen_six.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/activity_my_food_buddy_screen_six.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/activity_my_food_buddy_screen_three.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/activity_my_food_buddy_screen_three.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/fragment_my_food_buddy_screen_three.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/fragment_my_food_buddy_screen_three.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/fragment_my_food_buddy_screen_two.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/fragment_my_food_buddy_screen_two.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/activity_my_food_buddy_screen_five.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/activity_my_food_buddy_screen_five.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/fragment_home.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.itpgroup18.groceryhunters.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.itpgroup18.groceryhunters.app-main-53:/layout/activity_main.xml"
+    }
+]
