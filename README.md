@@ -55,6 +55,13 @@ It is a scavenger hunt activity that users will be able to play when their paren
 
 https://user-images.githubusercontent.com/17755848/181720672-9dd17242-afb6-4ba8-a2fb-c94e28b806a8.mp4
 
+<!-- Customization -->
+## Customization
+This personalisation feature creates a sense of ownership for their buddy. The current customisation options include different buddies, furniture, and houses. Each item is priced differently, depending on how ‘premium’ it looks. This price differentiation will also create a small sense of competitiveness among their friends.
+
+https://user-images.githubusercontent.com/17755848/181724179-5c9638ed-ce93-4096-a6b6-5f9ebd27ab54.mp4
+
+
 <!-- # Figma Prototype
 https://www.figma.com/file/xVy9SQQKyk29mRrHVWiUNC/ITP-prototype -->
 
